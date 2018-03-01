@@ -6,4 +6,4 @@ It aims to give you an accessible introduction on how to use kNN machine learnin
 
 We will start from loading data, next is preprocessing data, then exploratory data analysis and then making classification by using kNN algorithm.
 
-Lastly, to evaluate our model,s performance we calculated accuracy, recall, precision scores, confusion matrix, and ROC curve.
+Lastly, to evaluate our model's performance we calculated accuracy, recall, precision scores, confusion matrix, and ROC curve.
